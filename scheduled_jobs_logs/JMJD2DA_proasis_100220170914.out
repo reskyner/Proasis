@@ -1,0 +1,83 @@
+**********************************************************************************
+
+Checking datafile exists: True
+Searching the datafile /dls/labxchem/data/2016/lb13385-70/processing/database/soakDBDataFile.sqlite for hits
+
+**********************************************************************************
+
+
+**********************************************************************************
+
+Protein name (from soakDB): JMJD2DA
+
+**********************************************************************************
+
+
+checking for /dls/labxchem/data/2016/lb13385-70/processing/analysis/initial_model/JMJD2DA-x1672/refine.bound.pdb
+Warning: No refine.bound.pdb file found for JMJD2DA-x1672, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-70/processing/analysis/initial_model/JMJD2DA-x1672/refine.output.bound-state.pdb
+Warning: No refine.bound.pdb file found for JMJD2DA-x1672, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-70/processing/analysis/initial_model/JMJD2DA-x1673/refine.bound.pdb
+Files already exist in proasis directories! Nothing to do here.
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-70/processing/analysis/initial_model/JMJD2DA-x1673/refine.output.bound-state.pdb
+Warning: No refine.bound.pdb file found for JMJD2DA-x1673, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-70/processing/analysis/initial_model/JMJD2DA-x1698/refine.bound.pdb
+Warning: No refine.bound.pdb file found for JMJD2DA-x1698, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-70/processing/analysis/initial_model/JMJD2DA-x1698/refine.output.bound-state.pdb
+Warning: No refine.bound.pdb file found for JMJD2DA-x1698, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-70/processing/analysis/initial_model/JMJD2DA-x1704/refine.bound.pdb
+Warning: No refine.bound.pdb file found for JMJD2DA-x1704, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-70/processing/analysis/initial_model/JMJD2DA-x1704/refine.output.bound-state.pdb
+Warning: No refine.bound.pdb file found for JMJD2DA-x1704, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-70/processing/analysis/initial_model/JMJD2DA-x1727/refine.bound.pdb
+Warning: No refine.bound.pdb file found for JMJD2DA-x1727, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-70/processing/analysis/initial_model/JMJD2DA-x1727/refine.output.bound-state.pdb
+Warning: No refine.bound.pdb file found for JMJD2DA-x1727, refinement may have failed!
+ *** 
+
+**********************************************************************************
+
+No new entries...
+**********************************************************************************
+
+Will now check for updates to existing refinements...
+**********************************************************************************
+
+
+Ligand JMJD2DA-x1673 already in db...
+Checking if files have been modified...
+No modification... do nothing
+
+checking for changes to refinement outcome...
+SELECT CrystalName, RefinementOutcome FROM mainTable WHERE CrystalName GLOB 'JMJD2DA-x1673'
+(u'JMJD2DA-x1673', u'3 - In Refinement')
+[]
+**********************************************************************************
+
+No modifications...
+**********************************************************************************
+
+**********************************************************************************
+
+
+DONE! :)
+
+

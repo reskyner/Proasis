@@ -1,0 +1,299 @@
+**********************************************************************************
+
+Checking datafile exists: True
+Searching the datafile /dls/labxchem/data/2017/lb13385-102/processing/database/soakDBDataFile.sqlite for hits
+
+**********************************************************************************
+
+
+**********************************************************************************
+
+Protein name (from soakDB): OXA10OTA
+
+**********************************************************************************
+
+
+checking for /dls/labxchem/data/2017/lb13385-102/processing/analysis/initial_model/OXA10OTA-x0034/refine.bound.pdb
+Files already exist in proasis directories! Nothing to do here.
+ *** 
+
+checking for /dls/labxchem/data/2017/lb13385-102/processing/analysis/initial_model/OXA10OTA-x0034/refine.output.bound-state.pdb
+Warning: No refine.bound.pdb file found for OXA10OTA-x0034, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2017/lb13385-102/processing/analysis/initial_model/OXA10OTA-x0035/refine.bound.pdb
+Files already exist in proasis directories! Nothing to do here.
+ *** 
+
+checking for /dls/labxchem/data/2017/lb13385-102/processing/analysis/initial_model/OXA10OTA-x0035/refine.output.bound-state.pdb
+Warning: No refine.bound.pdb file found for OXA10OTA-x0035, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2017/lb13385-102/processing/analysis/initial_model/OXA10OTA-x0036/refine.bound.pdb
+Files already exist in proasis directories! Nothing to do here.
+ *** 
+
+checking for /dls/labxchem/data/2017/lb13385-102/processing/analysis/initial_model/OXA10OTA-x0036/refine.output.bound-state.pdb
+Warning: No refine.bound.pdb file found for OXA10OTA-x0036, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2017/lb13385-102/processing/analysis/initial_model/OXA10OTA-x0037/refine.bound.pdb
+Warning: No refine.bound.pdb file found for OXA10OTA-x0037, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2017/lb13385-102/processing/analysis/initial_model/OXA10OTA-x0037/refine.output.bound-state.pdb
+Warning: No refine.bound.pdb file found for OXA10OTA-x0037, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2017/lb13385-102/processing/analysis/initial_model/OXA10OTA-x0038/refine.bound.pdb
+Files already exist in proasis directories! Nothing to do here.
+ *** 
+
+checking for /dls/labxchem/data/2017/lb13385-102/processing/analysis/initial_model/OXA10OTA-x0038/refine.output.bound-state.pdb
+Warning: No refine.bound.pdb file found for OXA10OTA-x0038, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2017/lb13385-102/processing/analysis/initial_model/OXA10OTA-x0049/refine.bound.pdb
+Files already exist in proasis directories! Nothing to do here.
+ *** 
+
+checking for /dls/labxchem/data/2017/lb13385-102/processing/analysis/initial_model/OXA10OTA-x0049/refine.output.bound-state.pdb
+Warning: No refine.bound.pdb file found for OXA10OTA-x0049, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2017/lb13385-102/processing/analysis/initial_model/OXA10OTA-x0050/refine.bound.pdb
+Warning: No refine.bound.pdb file found for OXA10OTA-x0050, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2017/lb13385-102/processing/analysis/initial_model/OXA10OTA-x0050/refine.output.bound-state.pdb
+Warning: No refine.bound.pdb file found for OXA10OTA-x0050, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2017/lb13385-102/processing/analysis/initial_model/OXA10OTA-x0051/refine.bound.pdb
+Files already exist in proasis directories! Nothing to do here.
+ *** 
+
+checking for /dls/labxchem/data/2017/lb13385-102/processing/analysis/initial_model/OXA10OTA-x0051/refine.output.bound-state.pdb
+Warning: No refine.bound.pdb file found for OXA10OTA-x0051, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2017/lb13385-102/processing/analysis/initial_model/OXA10OTA-x0053/refine.bound.pdb
+Files already exist in proasis directories! Nothing to do here.
+ *** 
+
+checking for /dls/labxchem/data/2017/lb13385-102/processing/analysis/initial_model/OXA10OTA-x0053/refine.output.bound-state.pdb
+Warning: No refine.bound.pdb file found for OXA10OTA-x0053, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2017/lb13385-102/processing/analysis/initial_model/OXA10OTA-x0059/refine.bound.pdb
+Files already exist in proasis directories! Nothing to do here.
+ *** 
+
+checking for /dls/labxchem/data/2017/lb13385-102/processing/analysis/initial_model/OXA10OTA-x0059/refine.output.bound-state.pdb
+Warning: No refine.bound.pdb file found for OXA10OTA-x0059, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2017/lb13385-102/processing/analysis/initial_model/OXA10OTA-x0064/refine.bound.pdb
+Files already exist in proasis directories! Nothing to do here.
+ *** 
+
+checking for /dls/labxchem/data/2017/lb13385-102/processing/analysis/initial_model/OXA10OTA-x0064/refine.output.bound-state.pdb
+Warning: No refine.bound.pdb file found for OXA10OTA-x0064, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2017/lb13385-102/processing/analysis/initial_model/OXA10OTA-x0067/refine.bound.pdb
+Warning: No refine.bound.pdb file found for OXA10OTA-x0067, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2017/lb13385-102/processing/analysis/initial_model/OXA10OTA-x0067/refine.output.bound-state.pdb
+Warning: No refine.bound.pdb file found for OXA10OTA-x0067, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2017/lb13385-102/processing/analysis/initial_model/refine.bound.pdb
+Warning: No refine.bound.pdb file found for , refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2017/lb13385-102/processing/analysis/initial_model/refine.output.bound-state.pdb
+Warning: No refine.bound.pdb file found for , refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2017/lb13385-102/processing/analysis/initial_model/OXA10OTA-x0071/refine.bound.pdb
+Warning: No refine.bound.pdb file found for OXA10OTA-x0071, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2017/lb13385-102/processing/analysis/initial_model/OXA10OTA-x0071/refine.output.bound-state.pdb
+Warning: No refine.bound.pdb file found for OXA10OTA-x0071, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2017/lb13385-102/processing/analysis/initial_model/OXA10OTA-x0073/refine.bound.pdb
+Files already exist in proasis directories! Nothing to do here.
+ *** 
+
+checking for /dls/labxchem/data/2017/lb13385-102/processing/analysis/initial_model/OXA10OTA-x0073/refine.output.bound-state.pdb
+Warning: No refine.bound.pdb file found for OXA10OTA-x0073, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2017/lb13385-102/processing/analysis/initial_model/OXA10OTA-x0074/refine.bound.pdb
+Files already exist in proasis directories! Nothing to do here.
+ *** 
+
+checking for /dls/labxchem/data/2017/lb13385-102/processing/analysis/initial_model/OXA10OTA-x0074/refine.output.bound-state.pdb
+Warning: No refine.bound.pdb file found for OXA10OTA-x0074, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2017/lb13385-102/processing/analysis/initial_model/OXA10OTA-x0079/refine.bound.pdb
+Files already exist in proasis directories! Nothing to do here.
+ *** 
+
+checking for /dls/labxchem/data/2017/lb13385-102/processing/analysis/initial_model/OXA10OTA-x0079/refine.output.bound-state.pdb
+Warning: No refine.bound.pdb file found for OXA10OTA-x0079, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2017/lb13385-102/processing/analysis/initial_model/OXA10OTA-x0083/refine.bound.pdb
+Warning: No refine.bound.pdb file found for OXA10OTA-x0083, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2017/lb13385-102/processing/analysis/initial_model/OXA10OTA-x0083/refine.output.bound-state.pdb
+Warning: No refine.bound.pdb file found for OXA10OTA-x0083, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2017/lb13385-102/processing/analysis/initial_model/OXA10OTA-x0106/refine.bound.pdb
+Files already exist in proasis directories! Nothing to do here.
+ *** 
+
+checking for /dls/labxchem/data/2017/lb13385-102/processing/analysis/initial_model/OXA10OTA-x0106/refine.output.bound-state.pdb
+Warning: No refine.bound.pdb file found for OXA10OTA-x0106, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2017/lb13385-102/processing/analysis/initial_model/OXA10OTA-x0108/refine.bound.pdb
+Files already exist in proasis directories! Nothing to do here.
+ *** 
+
+checking for /dls/labxchem/data/2017/lb13385-102/processing/analysis/initial_model/OXA10OTA-x0108/refine.output.bound-state.pdb
+Warning: No refine.bound.pdb file found for OXA10OTA-x0108, refinement may have failed!
+ *** 
+
+**********************************************************************************
+
+No new entries...
+**********************************************************************************
+
+Will now check for updates to existing refinements...
+**********************************************************************************
+
+
+Ligand OXA10OTA-x0034 already in db...
+Checking if files have been modified...
+No modification... do nothing
+
+checking for changes to refinement outcome...
+SELECT CrystalName, RefinementOutcome FROM mainTable WHERE CrystalName GLOB 'OXA10OTA-x0034'
+(u'OXA10OTA-x0034', u'3 - In Refinement')
+[]
+Ligand OXA10OTA-x0035 already in db...
+Checking if files have been modified...
+No modification... do nothing
+
+checking for changes to refinement outcome...
+SELECT CrystalName, RefinementOutcome FROM mainTable WHERE CrystalName GLOB 'OXA10OTA-x0035'
+(u'OXA10OTA-x0035', u'3 - In Refinement')
+[]
+Ligand OXA10OTA-x0036 already in db...
+Checking if files have been modified...
+No modification... do nothing
+
+checking for changes to refinement outcome...
+SELECT CrystalName, RefinementOutcome FROM mainTable WHERE CrystalName GLOB 'OXA10OTA-x0036'
+(u'OXA10OTA-x0036', u'3 - In Refinement')
+[]
+Ligand OXA10OTA-x0038 already in db...
+Checking if files have been modified...
+No modification... do nothing
+
+checking for changes to refinement outcome...
+SELECT CrystalName, RefinementOutcome FROM mainTable WHERE CrystalName GLOB 'OXA10OTA-x0038'
+(u'OXA10OTA-x0038', u'4 - CompChem ready')
+[]
+Ligand OXA10OTA-x0049 already in db...
+Checking if files have been modified...
+No modification... do nothing
+
+checking for changes to refinement outcome...
+SELECT CrystalName, RefinementOutcome FROM mainTable WHERE CrystalName GLOB 'OXA10OTA-x0049'
+(u'OXA10OTA-x0049', u'4 - CompChem ready')
+[]
+Ligand OXA10OTA-x0051 already in db...
+Checking if files have been modified...
+No modification... do nothing
+
+checking for changes to refinement outcome...
+SELECT CrystalName, RefinementOutcome FROM mainTable WHERE CrystalName GLOB 'OXA10OTA-x0051'
+(u'OXA10OTA-x0051', u'4 - CompChem ready')
+[]
+Ligand OXA10OTA-x0053 already in db...
+Checking if files have been modified...
+No modification... do nothing
+
+checking for changes to refinement outcome...
+SELECT CrystalName, RefinementOutcome FROM mainTable WHERE CrystalName GLOB 'OXA10OTA-x0053'
+(u'OXA10OTA-x0053', u'4 - CompChem ready')
+[]
+Ligand OXA10OTA-x0059 already in db...
+Checking if files have been modified...
+No modification... do nothing
+
+checking for changes to refinement outcome...
+SELECT CrystalName, RefinementOutcome FROM mainTable WHERE CrystalName GLOB 'OXA10OTA-x0059'
+(u'OXA10OTA-x0059', u'4 - CompChem ready')
+[]
+Ligand OXA10OTA-x0073 already in db...
+Checking if files have been modified...
+No modification... do nothing
+
+checking for changes to refinement outcome...
+SELECT CrystalName, RefinementOutcome FROM mainTable WHERE CrystalName GLOB 'OXA10OTA-x0073'
+(u'OXA10OTA-x0073', u'4 - CompChem ready')
+[]
+Ligand OXA10OTA-x0074 already in db...
+Checking if files have been modified...
+No modification... do nothing
+
+checking for changes to refinement outcome...
+SELECT CrystalName, RefinementOutcome FROM mainTable WHERE CrystalName GLOB 'OXA10OTA-x0074'
+(u'OXA10OTA-x0074', u'4 - CompChem ready')
+[]
+Ligand OXA10OTA-x0079 already in db...
+Checking if files have been modified...
+No modification... do nothing
+
+checking for changes to refinement outcome...
+SELECT CrystalName, RefinementOutcome FROM mainTable WHERE CrystalName GLOB 'OXA10OTA-x0079'
+(u'OXA10OTA-x0079', u'4 - CompChem ready')
+[]
+Ligand OXA10OTA-x0106 already in db...
+Checking if files have been modified...
+No modification... do nothing
+
+checking for changes to refinement outcome...
+SELECT CrystalName, RefinementOutcome FROM mainTable WHERE CrystalName GLOB 'OXA10OTA-x0106'
+(u'OXA10OTA-x0106', u'4 - CompChem ready')
+[]
+Ligand OXA10OTA-x0108 already in db...
+Checking if files have been modified...
+No modification... do nothing
+
+checking for changes to refinement outcome...
+SELECT CrystalName, RefinementOutcome FROM mainTable WHERE CrystalName GLOB 'OXA10OTA-x0108'
+(u'OXA10OTA-x0108', u'4 - CompChem ready')
+[]
+**********************************************************************************
+
+No modifications...
+**********************************************************************************
+
+**********************************************************************************
+
+
+DONE! :)
+
+

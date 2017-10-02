@@ -1,0 +1,155 @@
+**********************************************************************************
+
+Checking datafile exists: True
+Searching the datafile /dls/labxchem/data/2017/lb18145-25/processing/NUDT21/database/soakDBDataFile.sqlite for hits
+
+**********************************************************************************
+
+
+**********************************************************************************
+
+Protein name (from soakDB): NUDT21A
+
+**********************************************************************************
+
+
+checking for /dls/labxchem/data/2017/lb18145-25/processing/NUDT21/analysis/initial_model/NUDT21A-x0266/refine.bound.pdb
+Warning: No refine.bound.pdb file found for NUDT21A-x0266, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2017/lb18145-25/processing/NUDT21/analysis/initial_model/NUDT21A-x0266/refine.output.bound-state.pdb
+Warning: No refine.bound.pdb file found for NUDT21A-x0266, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2017/lb18145-25/processing/NUDT21/analysis/initial_model/NUDT21A-x0297/refine.bound.pdb
+Warning: No refine.bound.pdb file found for NUDT21A-x0297, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2017/lb18145-25/processing/NUDT21/analysis/initial_model/NUDT21A-x0297/refine.output.bound-state.pdb
+Warning: No refine.bound.pdb file found for NUDT21A-x0297, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2017/lb18145-25/processing/NUDT21/analysis/initial_model/NUDT21A-x0368/refine.bound.pdb
+Warning: No refine.bound.pdb file found for NUDT21A-x0368, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2017/lb18145-25/processing/NUDT21/analysis/initial_model/NUDT21A-x0368/refine.output.bound-state.pdb
+Warning: No refine.bound.pdb file found for NUDT21A-x0368, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2017/lb18145-25/processing/NUDT21/analysis/initial_model/NUDT21A-x0404/refine.bound.pdb
+Warning: No refine.bound.pdb file found for NUDT21A-x0404, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2017/lb18145-25/processing/NUDT21/analysis/initial_model/NUDT21A-x0404/refine.output.bound-state.pdb
+Warning: No refine.bound.pdb file found for NUDT21A-x0404, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2017/lb18145-25/processing/NUDT21/analysis/initial_model/NUDT21A-x0437/refine.bound.pdb
+Warning: No refine.bound.pdb file found for NUDT21A-x0437, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2017/lb18145-25/processing/NUDT21/analysis/initial_model/NUDT21A-x0437/refine.output.bound-state.pdb
+Warning: No refine.bound.pdb file found for NUDT21A-x0437, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2017/lb18145-25/processing/NUDT21/analysis/initial_model/NUDT21A-x0442/refine.bound.pdb
+Warning: No refine.bound.pdb file found for NUDT21A-x0442, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2017/lb18145-25/processing/NUDT21/analysis/initial_model/NUDT21A-x0442/refine.output.bound-state.pdb
+Warning: No refine.bound.pdb file found for NUDT21A-x0442, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2017/lb18145-25/processing/NUDT21/analysis/initial_model/NUDT21A-x0486/refine.bound.pdb
+Warning: No refine.bound.pdb file found for NUDT21A-x0486, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2017/lb18145-25/processing/NUDT21/analysis/initial_model/NUDT21A-x0486/refine.output.bound-state.pdb
+Warning: No refine.bound.pdb file found for NUDT21A-x0486, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2017/lb18145-25/processing/NUDT21/analysis/initial_model/NUDT21A-x0489/refine.bound.pdb
+Warning: No refine.bound.pdb file found for NUDT21A-x0489, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2017/lb18145-25/processing/NUDT21/analysis/initial_model/NUDT21A-x0489/refine.output.bound-state.pdb
+Warning: No refine.bound.pdb file found for NUDT21A-x0489, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2017/lb18145-25/processing/NUDT21/analysis/initial_model/NUDT21A-x0498/refine.bound.pdb
+Warning: No refine.bound.pdb file found for NUDT21A-x0498, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2017/lb18145-25/processing/NUDT21/analysis/initial_model/NUDT21A-x0498/refine.output.bound-state.pdb
+Warning: No refine.bound.pdb file found for NUDT21A-x0498, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2017/lb18145-25/processing/NUDT21/analysis/initial_model/NUDT21A-x0502/refine.bound.pdb
+Warning: No refine.bound.pdb file found for NUDT21A-x0502, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2017/lb18145-25/processing/NUDT21/analysis/initial_model/NUDT21A-x0502/refine.output.bound-state.pdb
+Warning: No refine.bound.pdb file found for NUDT21A-x0502, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2017/lb18145-25/processing/NUDT21/analysis/initial_model/NUDT21A-x0503/refine.bound.pdb
+Warning: No refine.bound.pdb file found for NUDT21A-x0503, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2017/lb18145-25/processing/NUDT21/analysis/initial_model/NUDT21A-x0503/refine.output.bound-state.pdb
+Warning: No refine.bound.pdb file found for NUDT21A-x0503, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2017/lb18145-25/processing/NUDT21/analysis/initial_model/NUDT21A-x0798/refine.bound.pdb
+Warning: No refine.bound.pdb file found for NUDT21A-x0798, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2017/lb18145-25/processing/NUDT21/analysis/initial_model/NUDT21A-x0798/refine.output.bound-state.pdb
+Warning: No refine.bound.pdb file found for NUDT21A-x0798, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2017/lb18145-25/processing/NUDT21/analysis/initial_model/NUDT21A-x0823/refine.bound.pdb
+Warning: No refine.bound.pdb file found for NUDT21A-x0823, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2017/lb18145-25/processing/NUDT21/analysis/initial_model/NUDT21A-x0823/refine.output.bound-state.pdb
+Warning: No refine.bound.pdb file found for NUDT21A-x0823, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2017/lb18145-25/processing/NUDT21/analysis/initial_model/NUDT21A-x0827/refine.bound.pdb
+Warning: No refine.bound.pdb file found for NUDT21A-x0827, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2017/lb18145-25/processing/NUDT21/analysis/initial_model/NUDT21A-x0827/refine.output.bound-state.pdb
+Warning: No refine.bound.pdb file found for NUDT21A-x0827, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2017/lb18145-25/processing/NUDT21/analysis/initial_model/NUDT21A-x0896/refine.bound.pdb
+Warning: No refine.bound.pdb file found for NUDT21A-x0896, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2017/lb18145-25/processing/NUDT21/analysis/initial_model/NUDT21A-x0896/refine.output.bound-state.pdb
+Warning: No refine.bound.pdb file found for NUDT21A-x0896, refinement may have failed!
+ *** 
+
+**********************************************************************************
+
+No new entries...
+**********************************************************************************
+
+Will now check for updates to existing refinements...
+**********************************************************************************
+
+
+**********************************************************************************
+
+No modifications...
+**********************************************************************************
+
+**********************************************************************************
+
+
+DONE! :)
+
+

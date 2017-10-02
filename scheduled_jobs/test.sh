@@ -1,0 +1,7 @@
+/dls/science/groups/proasis/Scripts/populate_hits.py -d /dls/labxchem/data/2016/lb13385-50/processing/ > /dls/science/groups/proasis/Scripts/scheduled_jobs_logs/VIM2_proasis_$(date +"%m%d%Y%H%M").out
+/dls/science/groups/proasis/Scripts/populate_hits.py -d /dls/labxchem/data/2017/lb13385-102/processing/ > /dls/science/groups/proasis/Scripts/scheduled_jobs_logs/OXA10OTA_proasis_$(date +"%m%d%Y%H%M").out
+#/dls/science/groups/proasis/Scripts/populate_hits.py -d /dls/labxchem/data/2016/lb13385-70/processing> /dls/science/groups/proasis/Scripts/scheduled_jobs_logs/JMJD2DA_proasis_$(date +"%m%d%Y%H%M").out
+/dls/science/groups/proasis/Scripts/populate_hits.py -d /dls/labxchem/data/2017/lb18145-25/processing/NUDT7 > /dls/science/groups/proasis/Scripts/scheduled_jobs_logs/NUDT7A_proasis_$(date +"%m%d%Y%H%M").out
+/dls/science/groups/proasis/Scripts/populate_hits.py -d /dls/labxchem/data/2017/lb18145-25/processing/NUDT21 > /dls/science/groups/proasis/Scripts/scheduled_jobs_logs/NUDT21A_proasis_$(date +"%m%d%Y%H%M").out
+/dls/science/groups/proasis/Scripts/populate_hits.py -d /dls/labxchem/data/2016/lb13385-70/processing > /dls/science/groups/proasis/Scripts/scheduled_jobs_logs/JMJD2DA_proasis_$(date +"%m%d%Y%H%M").out
+/dls/science/groups/proasis/Scripts/populate_hits.py -d /dls/labxchem/data/2016/lb13385-64/processing/analysis_xce2_july -i /dls/labxchem/data/2016/lb13385-64/processing/analysis_xce2_july/Initial_model > /dls/science/groups/proasis/Scripts/scheduled_jobs_logs/DCP2B_proasis_$(date +"%m%d%Y%H%M").out

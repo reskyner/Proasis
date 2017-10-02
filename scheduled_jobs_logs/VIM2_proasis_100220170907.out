@@ -1,0 +1,43 @@
+**********************************************************************************
+
+Checking datafile exists: True
+Searching the datafile /dls/labxchem/data/2016/lb13385-50/processing/database/soakDBDataFile.sqlite for hits
+
+**********************************************************************************
+
+
+**********************************************************************************
+
+Protein name (from soakDB): VIM2
+
+**********************************************************************************
+
+
+checking for /dls/labxchem/data/2016/lb13385-50/processing/analysis/initial_model/VIM2-MB-98/refine.bound.pdb
+Files already exist in proasis directories! Nothing to do here.
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-50/processing/analysis/initial_model/VIM2-MB-98/refine.output.bound-state.pdb
+Warning: No refine.bound.pdb file found for VIM2-MB-98, refinement may have failed!
+ *** 
+
+**********************************************************************************
+
+No new entries...
+**********************************************************************************
+
+Will now check for updates to existing refinements...
+**********************************************************************************
+
+
+**********************************************************************************
+
+No modifications...
+**********************************************************************************
+
+**********************************************************************************
+
+
+DONE! :)
+
+

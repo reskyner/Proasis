@@ -1,0 +1,611 @@
+**********************************************************************************
+
+Checking datafile exists: True
+Searching the datafile /dls/labxchem/data/2016/lb13385-64/processing/analysis_xce2_july/database/soakDBDataFile.sqlite for hits
+
+**********************************************************************************
+
+
+**********************************************************************************
+
+Protein name (from soakDB): DCP2B
+
+**********************************************************************************
+
+
+checking for /dls/labxchem/data/2016/lb13385-64/processing/analysis_xce2_july/Initial_model/DCP2B-x1214/refine.bound.pdb
+Warning: No refine.bound.pdb file found for DCP2B-x1214, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-64/processing/analysis_xce2_july/Initial_model/DCP2B-x1214/refine.output.bound-state.pdb
+Files already exist in proasis directories! Nothing to do here.
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-64/processing/analysis_xce2_july/Initial_model/DCP2B-x1217/refine.bound.pdb
+Warning: No refine.bound.pdb file found for DCP2B-x1217, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-64/processing/analysis_xce2_july/Initial_model/DCP2B-x1217/refine.output.bound-state.pdb
+Files already exist in proasis directories! Nothing to do here.
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-64/processing/analysis_xce2_july/Initial_model/DCP2B-x1225/refine.bound.pdb
+Warning: No refine.bound.pdb file found for DCP2B-x1225, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-64/processing/analysis_xce2_july/Initial_model/DCP2B-x1225/refine.output.bound-state.pdb
+Warning: No refine.bound.pdb file found for DCP2B-x1225, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-64/processing/analysis_xce2_july/Initial_model/DCP2B-x1235/refine.bound.pdb
+Warning: No refine.bound.pdb file found for DCP2B-x1235, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-64/processing/analysis_xce2_july/Initial_model/DCP2B-x1235/refine.output.bound-state.pdb
+Files already exist in proasis directories! Nothing to do here.
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-64/processing/analysis_xce2_july/Initial_model/DCP2B-x1246/refine.bound.pdb
+Warning: No refine.bound.pdb file found for DCP2B-x1246, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-64/processing/analysis_xce2_july/Initial_model/DCP2B-x1246/refine.output.bound-state.pdb
+Files already exist in proasis directories! Nothing to do here.
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-64/processing/analysis_xce2_july/Initial_model/DCP2B-x1247/refine.bound.pdb
+Warning: No refine.bound.pdb file found for DCP2B-x1247, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-64/processing/analysis_xce2_july/Initial_model/DCP2B-x1247/refine.output.bound-state.pdb
+Files already exist in proasis directories! Nothing to do here.
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-64/processing/analysis_xce2_july/Initial_model/DCP2B-x1254/refine.bound.pdb
+Warning: No refine.bound.pdb file found for DCP2B-x1254, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-64/processing/analysis_xce2_july/Initial_model/DCP2B-x1254/refine.output.bound-state.pdb
+Files already exist in proasis directories! Nothing to do here.
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-64/processing/analysis_xce2_july/Initial_model/DCP2B-x1256/refine.bound.pdb
+Warning: No refine.bound.pdb file found for DCP2B-x1256, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-64/processing/analysis_xce2_july/Initial_model/DCP2B-x1256/refine.output.bound-state.pdb
+Files already exist in proasis directories! Nothing to do here.
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-64/processing/analysis_xce2_july/Initial_model/DCP2B-x1257/refine.bound.pdb
+Warning: No refine.bound.pdb file found for DCP2B-x1257, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-64/processing/analysis_xce2_july/Initial_model/DCP2B-x1257/refine.output.bound-state.pdb
+Files already exist in proasis directories! Nothing to do here.
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-64/processing/analysis_xce2_july/Initial_model/DCP2B-x1259/refine.bound.pdb
+Warning: No refine.bound.pdb file found for DCP2B-x1259, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-64/processing/analysis_xce2_july/Initial_model/DCP2B-x1259/refine.output.bound-state.pdb
+Files already exist in proasis directories! Nothing to do here.
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-64/processing/analysis_xce2_july/Initial_model/DCP2B-x1264/refine.bound.pdb
+Warning: No refine.bound.pdb file found for DCP2B-x1264, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-64/processing/analysis_xce2_july/Initial_model/DCP2B-x1264/refine.output.bound-state.pdb
+Files already exist in proasis directories! Nothing to do here.
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-64/processing/analysis_xce2_july/Initial_model/DCP2B-x1276/refine.bound.pdb
+Warning: No refine.bound.pdb file found for DCP2B-x1276, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-64/processing/analysis_xce2_july/Initial_model/DCP2B-x1276/refine.output.bound-state.pdb
+Files already exist in proasis directories! Nothing to do here.
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-64/processing/analysis_xce2_july/Initial_model/DCP2B-x1344/refine.bound.pdb
+Warning: No refine.bound.pdb file found for DCP2B-x1344, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-64/processing/analysis_xce2_july/Initial_model/DCP2B-x1344/refine.output.bound-state.pdb
+Warning: No refine.bound.pdb file found for DCP2B-x1344, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-64/processing/analysis_xce2_july/Initial_model/DCP2B-x1361/refine.bound.pdb
+Warning: No refine.bound.pdb file found for DCP2B-x1361, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-64/processing/analysis_xce2_july/Initial_model/DCP2B-x1361/refine.output.bound-state.pdb
+Files already exist in proasis directories! Nothing to do here.
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-64/processing/analysis_xce2_july/Initial_model/DCP2B-x1362/refine.bound.pdb
+Warning: No refine.bound.pdb file found for DCP2B-x1362, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-64/processing/analysis_xce2_july/Initial_model/DCP2B-x1362/refine.output.bound-state.pdb
+Files already exist in proasis directories! Nothing to do here.
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-64/processing/analysis_xce2_july/Initial_model/DCP2B-x1364/refine.bound.pdb
+Warning: No refine.bound.pdb file found for DCP2B-x1364, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-64/processing/analysis_xce2_july/Initial_model/DCP2B-x1364/refine.output.bound-state.pdb
+Warning: No refine.bound.pdb file found for DCP2B-x1364, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-64/processing/analysis_xce2_july/Initial_model/DCP2B-x1367/refine.bound.pdb
+Warning: No refine.bound.pdb file found for DCP2B-x1367, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-64/processing/analysis_xce2_july/Initial_model/DCP2B-x1367/refine.output.bound-state.pdb
+Files already exist in proasis directories! Nothing to do here.
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-64/processing/analysis_xce2_july/Initial_model/DCP2B-x1372/refine.bound.pdb
+Warning: No refine.bound.pdb file found for DCP2B-x1372, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-64/processing/analysis_xce2_july/Initial_model/DCP2B-x1372/refine.output.bound-state.pdb
+Files already exist in proasis directories! Nothing to do here.
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-64/processing/analysis_xce2_july/Initial_model/DCP2B-x1374/refine.bound.pdb
+Warning: No refine.bound.pdb file found for DCP2B-x1374, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-64/processing/analysis_xce2_july/Initial_model/DCP2B-x1374/refine.output.bound-state.pdb
+Files already exist in proasis directories! Nothing to do here.
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-64/processing/analysis_xce2_july/Initial_model/DCP2B-x1382/refine.bound.pdb
+Warning: No refine.bound.pdb file found for DCP2B-x1382, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-64/processing/analysis_xce2_july/Initial_model/DCP2B-x1382/refine.output.bound-state.pdb
+Files already exist in proasis directories! Nothing to do here.
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-64/processing/analysis_xce2_july/Initial_model/DCP2B-x1386/refine.bound.pdb
+Warning: No refine.bound.pdb file found for DCP2B-x1386, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-64/processing/analysis_xce2_july/Initial_model/DCP2B-x1386/refine.output.bound-state.pdb
+Files already exist in proasis directories! Nothing to do here.
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-64/processing/analysis_xce2_july/Initial_model/DCP2B-x1393/refine.bound.pdb
+Warning: No refine.bound.pdb file found for DCP2B-x1393, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-64/processing/analysis_xce2_july/Initial_model/DCP2B-x1393/refine.output.bound-state.pdb
+Files already exist in proasis directories! Nothing to do here.
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-64/processing/analysis_xce2_july/Initial_model/DCP2B-x1396/refine.bound.pdb
+Warning: No refine.bound.pdb file found for DCP2B-x1396, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-64/processing/analysis_xce2_july/Initial_model/DCP2B-x1396/refine.output.bound-state.pdb
+Files already exist in proasis directories! Nothing to do here.
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-64/processing/analysis_xce2_july/Initial_model/DCP2B-x1424/refine.bound.pdb
+Warning: No refine.bound.pdb file found for DCP2B-x1424, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-64/processing/analysis_xce2_july/Initial_model/DCP2B-x1424/refine.output.bound-state.pdb
+Files already exist in proasis directories! Nothing to do here.
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-64/processing/analysis_xce2_july/Initial_model/DCP2B-x1475/refine.bound.pdb
+Warning: No refine.bound.pdb file found for DCP2B-x1475, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-64/processing/analysis_xce2_july/Initial_model/DCP2B-x1475/refine.output.bound-state.pdb
+Files already exist in proasis directories! Nothing to do here.
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-64/processing/analysis_xce2_july/Initial_model/DCP2B-x1479/refine.bound.pdb
+Warning: No refine.bound.pdb file found for DCP2B-x1479, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-64/processing/analysis_xce2_july/Initial_model/DCP2B-x1479/refine.output.bound-state.pdb
+Warning: No refine.bound.pdb file found for DCP2B-x1479, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-64/processing/analysis_xce2_july/Initial_model/DCP2B-x1502/refine.bound.pdb
+Warning: No refine.bound.pdb file found for DCP2B-x1502, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-64/processing/analysis_xce2_july/Initial_model/DCP2B-x1502/refine.output.bound-state.pdb
+Files already exist in proasis directories! Nothing to do here.
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-64/processing/analysis_xce2_july/Initial_model/DCP2B-x1508/refine.bound.pdb
+Warning: No refine.bound.pdb file found for DCP2B-x1508, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-64/processing/analysis_xce2_july/Initial_model/DCP2B-x1508/refine.output.bound-state.pdb
+Files already exist in proasis directories! Nothing to do here.
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-64/processing/analysis_xce2_july/Initial_model/DCP2B-x1518/refine.bound.pdb
+Warning: No refine.bound.pdb file found for DCP2B-x1518, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-64/processing/analysis_xce2_july/Initial_model/DCP2B-x1518/refine.output.bound-state.pdb
+Files already exist in proasis directories! Nothing to do here.
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-64/processing/analysis_xce2_july/Initial_model/DCP2B-x1519/refine.bound.pdb
+Warning: No refine.bound.pdb file found for DCP2B-x1519, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-64/processing/analysis_xce2_july/Initial_model/DCP2B-x1519/refine.output.bound-state.pdb
+Files already exist in proasis directories! Nothing to do here.
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-64/processing/analysis_xce2_july/Initial_model/DCP2B-x1521/refine.bound.pdb
+Warning: No refine.bound.pdb file found for DCP2B-x1521, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-64/processing/analysis_xce2_july/Initial_model/DCP2B-x1521/refine.output.bound-state.pdb
+Files already exist in proasis directories! Nothing to do here.
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-64/processing/analysis_xce2_july/Initial_model/DCP2B-x1523/refine.bound.pdb
+Warning: No refine.bound.pdb file found for DCP2B-x1523, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-64/processing/analysis_xce2_july/Initial_model/DCP2B-x1523/refine.output.bound-state.pdb
+Files already exist in proasis directories! Nothing to do here.
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-64/processing/analysis_xce2_july/Initial_model/DCP2B-x1524/refine.bound.pdb
+Warning: No refine.bound.pdb file found for DCP2B-x1524, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-64/processing/analysis_xce2_july/Initial_model/DCP2B-x1524/refine.output.bound-state.pdb
+Files already exist in proasis directories! Nothing to do here.
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-64/processing/analysis_xce2_july/Initial_model/DCP2B-x1526/refine.bound.pdb
+Warning: No refine.bound.pdb file found for DCP2B-x1526, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-64/processing/analysis_xce2_july/Initial_model/DCP2B-x1526/refine.output.bound-state.pdb
+Files already exist in proasis directories! Nothing to do here.
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-64/processing/analysis_xce2_july/Initial_model/DCP2B-x1527/refine.bound.pdb
+Warning: No refine.bound.pdb file found for DCP2B-x1527, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-64/processing/analysis_xce2_july/Initial_model/DCP2B-x1527/refine.output.bound-state.pdb
+Files already exist in proasis directories! Nothing to do here.
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-64/processing/analysis_xce2_july/Initial_model/DCP2B-x1529/refine.bound.pdb
+Warning: No refine.bound.pdb file found for DCP2B-x1529, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-64/processing/analysis_xce2_july/Initial_model/DCP2B-x1529/refine.output.bound-state.pdb
+Files already exist in proasis directories! Nothing to do here.
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-64/processing/analysis_xce2_july/Initial_model/DCP2B-x1532/refine.bound.pdb
+Warning: No refine.bound.pdb file found for DCP2B-x1532, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-64/processing/analysis_xce2_july/Initial_model/DCP2B-x1532/refine.output.bound-state.pdb
+Files already exist in proasis directories! Nothing to do here.
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-64/processing/analysis_xce2_july/Initial_model/DCP2B-x1535/refine.bound.pdb
+Warning: No refine.bound.pdb file found for DCP2B-x1535, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-64/processing/analysis_xce2_july/Initial_model/DCP2B-x1535/refine.output.bound-state.pdb
+Files already exist in proasis directories! Nothing to do here.
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-64/processing/analysis_xce2_july/Initial_model/DCP2B-x1538/refine.bound.pdb
+Warning: No refine.bound.pdb file found for DCP2B-x1538, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-64/processing/analysis_xce2_july/Initial_model/DCP2B-x1538/refine.output.bound-state.pdb
+Files already exist in proasis directories! Nothing to do here.
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-64/processing/analysis_xce2_july/Initial_model/DCP2B-x1561/refine.bound.pdb
+Warning: No refine.bound.pdb file found for DCP2B-x1561, refinement may have failed!
+ *** 
+
+checking for /dls/labxchem/data/2016/lb13385-64/processing/analysis_xce2_july/Initial_model/DCP2B-x1561/refine.output.bound-state.pdb
+Files already exist in proasis directories! Nothing to do here.
+ *** 
+
+**********************************************************************************
+
+No new entries...
+**********************************************************************************
+
+Will now check for updates to existing refinements...
+**********************************************************************************
+
+
+Ligand DCP2B-x1214 already in db...
+Checking if files have been modified...
+No modification... do nothing
+
+checking for changes to refinement outcome...
+SELECT CrystalName, RefinementOutcome FROM mainTable WHERE CrystalName GLOB 'DCP2B-x1214'
+(u'DCP2B-x1214', u'3 - In Refinement')
+[]
+Ligand DCP2B-x1217 already in db...
+Checking if files have been modified...
+No modification... do nothing
+
+checking for changes to refinement outcome...
+SELECT CrystalName, RefinementOutcome FROM mainTable WHERE CrystalName GLOB 'DCP2B-x1217'
+(u'DCP2B-x1217', u'4 - CompChem ready')
+[]
+Ligand DCP2B-x1235 already in db...
+Checking if files have been modified...
+No modification... do nothing
+
+checking for changes to refinement outcome...
+SELECT CrystalName, RefinementOutcome FROM mainTable WHERE CrystalName GLOB 'DCP2B-x1235'
+(u'DCP2B-x1235', u'3 - In Refinement')
+[]
+Ligand DCP2B-x1246 already in db...
+Checking if files have been modified...
+No modification... do nothing
+
+checking for changes to refinement outcome...
+SELECT CrystalName, RefinementOutcome FROM mainTable WHERE CrystalName GLOB 'DCP2B-x1246'
+(u'DCP2B-x1246', u'4 - CompChem ready')
+[]
+Ligand DCP2B-x1247 already in db...
+Checking if files have been modified...
+No modification... do nothing
+
+checking for changes to refinement outcome...
+SELECT CrystalName, RefinementOutcome FROM mainTable WHERE CrystalName GLOB 'DCP2B-x1247'
+(u'DCP2B-x1247', u'4 - CompChem ready')
+[]
+Ligand DCP2B-x1254 already in db...
+Checking if files have been modified...
+No modification... do nothing
+
+checking for changes to refinement outcome...
+SELECT CrystalName, RefinementOutcome FROM mainTable WHERE CrystalName GLOB 'DCP2B-x1254'
+(u'DCP2B-x1254', u'4 - CompChem ready')
+[]
+Ligand DCP2B-x1256 already in db...
+Checking if files have been modified...
+No modification... do nothing
+
+checking for changes to refinement outcome...
+SELECT CrystalName, RefinementOutcome FROM mainTable WHERE CrystalName GLOB 'DCP2B-x1256'
+(u'DCP2B-x1256', u'4 - CompChem ready')
+[]
+Ligand DCP2B-x1257 already in db...
+Checking if files have been modified...
+No modification... do nothing
+
+checking for changes to refinement outcome...
+SELECT CrystalName, RefinementOutcome FROM mainTable WHERE CrystalName GLOB 'DCP2B-x1257'
+(u'DCP2B-x1257', u'4 - CompChem ready')
+[]
+Ligand DCP2B-x1259 already in db...
+Checking if files have been modified...
+No modification... do nothing
+
+checking for changes to refinement outcome...
+SELECT CrystalName, RefinementOutcome FROM mainTable WHERE CrystalName GLOB 'DCP2B-x1259'
+(u'DCP2B-x1259', u'4 - CompChem ready')
+[]
+Ligand DCP2B-x1264 already in db...
+Checking if files have been modified...
+No modification... do nothing
+
+checking for changes to refinement outcome...
+SELECT CrystalName, RefinementOutcome FROM mainTable WHERE CrystalName GLOB 'DCP2B-x1264'
+(u'DCP2B-x1264', u'4 - CompChem ready')
+[]
+Ligand DCP2B-x1276 already in db...
+Checking if files have been modified...
+No modification... do nothing
+
+checking for changes to refinement outcome...
+SELECT CrystalName, RefinementOutcome FROM mainTable WHERE CrystalName GLOB 'DCP2B-x1276'
+(u'DCP2B-x1276', u'3 - In Refinement')
+[]
+Ligand DCP2B-x1361 already in db...
+Checking if files have been modified...
+No modification... do nothing
+
+checking for changes to refinement outcome...
+SELECT CrystalName, RefinementOutcome FROM mainTable WHERE CrystalName GLOB 'DCP2B-x1361'
+(u'DCP2B-x1361', u'4 - CompChem ready')
+[]
+Ligand DCP2B-x1362 already in db...
+Checking if files have been modified...
+No modification... do nothing
+
+checking for changes to refinement outcome...
+SELECT CrystalName, RefinementOutcome FROM mainTable WHERE CrystalName GLOB 'DCP2B-x1362'
+(u'DCP2B-x1362', u'4 - CompChem ready')
+[]
+Ligand DCP2B-x1367 already in db...
+Checking if files have been modified...
+No modification... do nothing
+
+checking for changes to refinement outcome...
+SELECT CrystalName, RefinementOutcome FROM mainTable WHERE CrystalName GLOB 'DCP2B-x1367'
+(u'DCP2B-x1367', u'4 - CompChem ready')
+[]
+Ligand DCP2B-x1372 already in db...
+Checking if files have been modified...
+No modification... do nothing
+
+checking for changes to refinement outcome...
+SELECT CrystalName, RefinementOutcome FROM mainTable WHERE CrystalName GLOB 'DCP2B-x1372'
+(u'DCP2B-x1372', u'3 - In Refinement')
+[]
+Ligand DCP2B-x1374 already in db...
+Checking if files have been modified...
+No modification... do nothing
+
+checking for changes to refinement outcome...
+SELECT CrystalName, RefinementOutcome FROM mainTable WHERE CrystalName GLOB 'DCP2B-x1374'
+(u'DCP2B-x1374', u'4 - CompChem ready')
+[]
+Ligand DCP2B-x1382 already in db...
+Checking if files have been modified...
+No modification... do nothing
+
+checking for changes to refinement outcome...
+SELECT CrystalName, RefinementOutcome FROM mainTable WHERE CrystalName GLOB 'DCP2B-x1382'
+(u'DCP2B-x1382', u'4 - CompChem ready')
+[]
+Ligand DCP2B-x1386 already in db...
+Checking if files have been modified...
+No modification... do nothing
+
+checking for changes to refinement outcome...
+SELECT CrystalName, RefinementOutcome FROM mainTable WHERE CrystalName GLOB 'DCP2B-x1386'
+(u'DCP2B-x1386', u'4 - CompChem ready')
+[]
+Ligand DCP2B-x1393 already in db...
+Checking if files have been modified...
+No modification... do nothing
+
+checking for changes to refinement outcome...
+SELECT CrystalName, RefinementOutcome FROM mainTable WHERE CrystalName GLOB 'DCP2B-x1393'
+(u'DCP2B-x1393', u'4 - CompChem ready')
+[]
+Ligand DCP2B-x1396 already in db...
+Checking if files have been modified...
+No modification... do nothing
+
+checking for changes to refinement outcome...
+SELECT CrystalName, RefinementOutcome FROM mainTable WHERE CrystalName GLOB 'DCP2B-x1396'
+(u'DCP2B-x1396', u'4 - CompChem ready')
+[]
+Ligand DCP2B-x1424 already in db...
+Checking if files have been modified...
+No modification... do nothing
+
+checking for changes to refinement outcome...
+SELECT CrystalName, RefinementOutcome FROM mainTable WHERE CrystalName GLOB 'DCP2B-x1424'
+(u'DCP2B-x1424', u'4 - CompChem ready')
+[]
+Ligand DCP2B-x1475 already in db...
+Checking if files have been modified...
+No modification... do nothing
+
+checking for changes to refinement outcome...
+SELECT CrystalName, RefinementOutcome FROM mainTable WHERE CrystalName GLOB 'DCP2B-x1475'
+(u'DCP2B-x1475', u'4 - CompChem ready')
+[]
+Ligand DCP2B-x1502 already in db...
+Checking if files have been modified...
+No modification... do nothing
+
+checking for changes to refinement outcome...
+SELECT CrystalName, RefinementOutcome FROM mainTable WHERE CrystalName GLOB 'DCP2B-x1502'
+(u'DCP2B-x1502', u'4 - CompChem ready')
+[]
+Ligand DCP2B-x1508 already in db...
+Checking if files have been modified...
+No modification... do nothing
+
+checking for changes to refinement outcome...
+SELECT CrystalName, RefinementOutcome FROM mainTable WHERE CrystalName GLOB 'DCP2B-x1508'
+(u'DCP2B-x1508', u'4 - CompChem ready')
+[]
+Ligand DCP2B-x1518 already in db...
+Checking if files have been modified...
+No modification... do nothing
+
+checking for changes to refinement outcome...
+SELECT CrystalName, RefinementOutcome FROM mainTable WHERE CrystalName GLOB 'DCP2B-x1518'
+(u'DCP2B-x1518', u'4 - CompChem ready')
+[]
+Ligand DCP2B-x1519 already in db...
+Checking if files have been modified...
+No modification... do nothing
+
+checking for changes to refinement outcome...
+SELECT CrystalName, RefinementOutcome FROM mainTable WHERE CrystalName GLOB 'DCP2B-x1519'
+(u'DCP2B-x1519', u'4 - CompChem ready')
+[]
+Ligand DCP2B-x1521 already in db...
+Checking if files have been modified...
+No modification... do nothing
+
+checking for changes to refinement outcome...
+SELECT CrystalName, RefinementOutcome FROM mainTable WHERE CrystalName GLOB 'DCP2B-x1521'
+(u'DCP2B-x1521', u'4 - CompChem ready')
+[]
+Ligand DCP2B-x1523 already in db...
+Checking if files have been modified...
+No modification... do nothing
+
+checking for changes to refinement outcome...
+SELECT CrystalName, RefinementOutcome FROM mainTable WHERE CrystalName GLOB 'DCP2B-x1523'
+(u'DCP2B-x1523', u'4 - CompChem ready')
+[]
+Ligand DCP2B-x1524 already in db...
+Checking if files have been modified...
+No modification... do nothing
+
+checking for changes to refinement outcome...
+SELECT CrystalName, RefinementOutcome FROM mainTable WHERE CrystalName GLOB 'DCP2B-x1524'
+(u'DCP2B-x1524', u'4 - CompChem ready')
+[]
+Ligand DCP2B-x1526 already in db...
+Checking if files have been modified...
+No modification... do nothing
+
+checking for changes to refinement outcome...
+SELECT CrystalName, RefinementOutcome FROM mainTable WHERE CrystalName GLOB 'DCP2B-x1526'
+(u'DCP2B-x1526', u'4 - CompChem ready')
+[]
+Ligand DCP2B-x1527 already in db...
+Checking if files have been modified...
+No modification... do nothing
+
+checking for changes to refinement outcome...
+SELECT CrystalName, RefinementOutcome FROM mainTable WHERE CrystalName GLOB 'DCP2B-x1527'
+(u'DCP2B-x1527', u'4 - CompChem ready')
+[]
+Ligand DCP2B-x1529 already in db...
+Checking if files have been modified...
+No modification... do nothing
+
+checking for changes to refinement outcome...
+SELECT CrystalName, RefinementOutcome FROM mainTable WHERE CrystalName GLOB 'DCP2B-x1529'
+(u'DCP2B-x1529', u'4 - CompChem ready')
+[]
+**********************************************************************************
+
+No modifications...
+**********************************************************************************
+
+**********************************************************************************
+
+
+DONE! :)
+
+

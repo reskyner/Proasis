@@ -1,0 +1,36 @@
+
+========================[ Jul 7, 2017  2:24 PM ]========================
+Version 2.2.6 [Apr-09-2003]
+Started database file "/usr/local/Proasis2/Data/BLAST/PRJBlast"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/localhome/proasis/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 30446 sequences in volume 0
+
+========================[ Jul 7, 2017  2:24 PM ]========================
+Version 2.2.6 [Apr-09-2003]
+Started database file "/usr/local/Proasis2/Data/BLAST/UNKBlast"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/localhome/proasis/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 289727 sequences in volume 0
+
+========================[ Jul 7, 2017  2:24 PM ]========================
+Version 2.2.6 [Apr-09-2003]
+Started database file "/usr/local/Proasis2/Data/BLAST/ALLBlast"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/localhome/proasis/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 320173 sequences in volume 0
+
+========================[ Jul 7, 2017  2:25 PM ]========================
+Version 2.2.6 [Apr-09-2003]
+Started database file "/usr/local/Proasis2/Data/BLAST/kinomeBlast"
+NOTE: CoreLib [002.003] FileOpen(".formatdbrc","r") failed
+NOTE: CoreLib [002.003] FileOpen("/localhome/proasis/.formatdbrc","r") failed
+NOTE: [000.000] No number of link bits used found in config  file. Ignoring
+NOTE: [000.000] No number of membership bits used found in config file. Ignoring
+Formatted 594 sequences in volume 0

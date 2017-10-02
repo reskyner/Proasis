@@ -1,0 +1,1 @@
+/usr/local/bin/python /usr/local/Proasis2/utils/submitStructure.py -p 'VIM2' -f /dls/science/groups/proasis/LabXChem/VIM2/VIM2-MB-599/refine.bound.pdb -x XRAY -d admin -y  -l "LIG C   2 " -m /dls/science/groups/proasis/LabXChem/VIM2/VIM2-MB-599/VIM2-MB-599.sdf -t VIM2-MB-599
